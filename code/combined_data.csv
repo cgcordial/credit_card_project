@@ -1,0 +1,208 @@
+Transaction Date,Post Date,Description,Spend Category,Amount,Source File
+2025-09-13,2025-09-14,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-13,2025-09-14,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-13,2025-09-16,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,6.14,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-15,2025-09-16,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,29.52,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-20,2025-09-21,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-20,2025-09-21,TIM HORTONS #8152 WINNIPEG MB,Restaurants,0.65,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-21,2025-09-22,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.5,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-21,2025-09-23,STARBUCKS 04827 WINNIPEG MB,Restaurants,2.74,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-23,2025-09-24,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-24,2025-09-25,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-25,2025-09-28,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-25,2025-09-28,TIM HORTONS #8152 WINNIPEG MB,Restaurants,2.71,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-26,2025-09-28,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-27,2025-09-28,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.5,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-27,2025-09-28,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-28,2025-09-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-28,2025-09-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.5,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-29,2025-09-30,TIM HORTONS #8152 WINNIPEG MB,Restaurants,9.06,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-29,2025-09-30,BK #11895 WINNIPEG MB,Restaurants,12.09,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-30,2025-10-01,MYBACKCHECK.COM SURREY BC,Personal and Household Expenses,30.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-30,2025-10-01,TIM HORTONS #8152 WINNIPEG MB,Restaurants,6.49,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-01,2025-10-02,BK #11895 WINNIPEG MB,Restaurants,12.53,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-02,2025-10-05,BK #11895 WINNIPEG MB,Restaurants,12.53,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-03,2025-10-05,TIM HORTONS #8152 WINNIPEG MB,Restaurants,8.49,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-03,2025-10-05,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,73.94,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-03,2025-10-05,TIM HORTONS #8152 WINNIPEG MB,Restaurants,6.49,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-03,2025-10-05,BK #11895 WINNIPEG MB,Restaurants,10.29,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-04,2025-10-05,TIM HORTONS #8152 WINNIPEG MB,Restaurants,9.95,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-04,2025-10-06,DIM SUM KINGDOM WINNIPEG MB,Restaurants,15.62,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-05,2025-10-06,TIM HORTONS #8152 WINNIPEG MB,Restaurants,9.95,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-06,2025-10-07,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.99,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-07,2025-10-08,TIM HORTONS #8152 WINNIPEG MB,Restaurants,6.49,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-07,2025-10-08,TIM HORTONS #8152 WINNIPEG MB,Restaurants,6.49,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-07,2025-10-08,BK #11895 WINNIPEG MB,Restaurants,6.71,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-09,TIM HORTONS #8152 WINNIPEG MB,Restaurants,2.01,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-09,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.82,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-09,DOLLARAMA #1286 WINNIPEG MB,Retail and Grocery,3.93,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-13,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.89,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-13,DIM SUM KINGDOM WINNIPEG MB,Restaurants,13.38,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-08,2025-10-13,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.35,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-09,2025-10-13,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-09,2025-10-13,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.33,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-10,2025-10-13,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-10,2025-10-13,DOLLARAMA #1286 WINNIPEG MB,Retail and Grocery,2.81,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-10,2025-10-13,BK #11895 WINNIPEG MB,Restaurants,12.53,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-10,2025-10-13,CHINA GARDEN RESTAURANT WINNIPEG MB,Restaurants,10.03,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-11,2025-10-13,CHINA GARDEN RESTAURANT WINNIPEG MB,Restaurants,10.03,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-10-11,2025-10-13,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.89,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-11,2025-09-14,MEDCOUNCIL/CONSEILMED OTTAWA ON,Personal and Household Expenses,298.0,/Users/giocordial/PycharmProjects/credit_card_project/data/October2020.pdf
+2025-09-16,2025-09-17,NORTH GARDEN RESTAURAN WINNIPEG MB,Restaurants,12.38,/Users/giocordial/PycharmProjects/credit_card_project/data/October2018.pdf
+2025-09-19,2025-09-20,NORTH GARDEN RESTAURAN WINNIPEG MB,Restaurants,12.38,/Users/giocordial/PycharmProjects/credit_card_project/data/October2018.pdf
+2025-09-21,2025-09-24,TRANSIT DOWNTOWN SERVI WINNIPEG MB,Professional and Financial Services,100.1,/Users/giocordial/PycharmProjects/credit_card_project/data/October2018.pdf
+2025-09-22,2025-09-24,CITIZENSHIP & IMM ON-LINEGATINEAU QC,Professional and Financial Services,630.0,/Users/giocordial/PycharmProjects/credit_card_project/data/October2018.pdf
+2025-09-29,2025-10-01,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,30.9,/Users/giocordial/PycharmProjects/credit_card_project/data/October2018.pdf
+2025-06-15,2025-06-16,LITTLE CAESARS PEMBINA SOWINNIPEG MB,Restaurants,12.31,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-18,2025-06-19,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,40.24,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-20,2025-06-22,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-22,2025-06-22,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-23,2025-06-25,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,6.01,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-26,2025-06-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-26,2025-06-29,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,4.25,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-27,2025-06-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.87,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-29,2025-06-30,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-30,2025-07-02,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-30,2025-07-02,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,42.05,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-06-30,2025-07-02,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,5.59,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-07-01,2025-07-02,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-07-05,2025-07-07,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,4.25,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-07-08,2025-07-09,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,61.64,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-07-09,2025-07-13,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,20.14,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-07-12,2025-07-13,ASOYAMA SUSHI WINNIPEG MB,Restaurants,77.31,/Users/giocordial/PycharmProjects/credit_card_project/data/July2020.pdf
+2025-08-17,2025-08-18,MY SPICE HOUSE WINNIPEG MB,Retail and Grocery,11.0,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-17,2025-08-18,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,22.37,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-20,2025-08-21,MPI BISON SERVICE CENTRE WINNIPEG MB,Professional and Financial Services,25.0,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-20,2025-08-24,SOBEYS #5037 WINNIPEG MB,Retail and Grocery,15.76,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-22,2025-08-24,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-23,2025-08-24,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.5,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-26,2025-08-27,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,14.68,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-26,2025-08-27,MY SPICE HOUSE WINNIPEG MB,Retail and Grocery,5.5,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-29,2025-08-31,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-29,2025-08-31,STARBUCKS 04827 WINNIPEG MB,Restaurants,5.18,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-30,2025-08-31,TIM HORTONS #2856 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-08-30,2025-08-31,TIM HORTONS #2856 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-09-03,2025-09-08,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,13.25,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-09-04,2025-09-08,MPI ST MARY'S SERVICE CENWINNIPEG MB,Professional and Financial Services,20.0,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-09-05,2025-09-08,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-09-06,2025-09-08,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-09-07,2025-09-08,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/September2020.pdf
+2025-12-11,2025-12-14,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,24.96,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-12,2025-12-14,CASHBACK/REMISE EN ARGENT,Other Transactions,-38.42,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-15,2025-12-16,UNICITY TAXI #314 WINNIPEG MB,Transportation,44.07,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-15,2025-12-16,UNICITY TAXI # 114 WINNIPEG MB,Transportation,8.39,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-16,2025-12-17,BK #11895 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-16,2025-12-18,ENGINEERS GEOSCIENTISTS MWINNIPEG MB,Professional and Financial Services,268.0,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-16,2025-12-21,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,37.72,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-17,2025-12-21,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,22.39,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-17,2025-12-21,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,16.01,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-17,2025-12-21,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.38,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-18,2025-12-21,TIM HORTONS #8152 WINNIPEG MB,Restaurants,6.49,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-19,2025-12-21,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,19.03,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-24,2025-12-24,BK #11895 WINNIPEG MB,Restaurants,12.31,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-24,2025-12-29,DOLLARAMA #1286 WINNIPEG MB,Retail and Grocery,2.86,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-24,2025-12-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-25,2025-12-29,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,2.34,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-26,2025-12-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.28,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-26,2025-12-29,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.78,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-27,2025-12-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-28,2025-12-29,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-28,2025-12-31,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.49,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-30,2025-12-31,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.98,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-12-30,2025-12-31,BK #11895 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-02,2025-01-04,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.32,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-03,2025-01-04,TIM HORTONS #8152 WINNIPEG MB,Restaurants,3.61,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-04,2025-01-05,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-05,2025-01-06,TIM HORTONS #8152 WINNIPEG MB,Restaurants,1.6,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-05,2025-01-08,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,10.42,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-06,2025-01-07,BK #11895 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-08,2025-01-11,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,32.82,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-08,2025-01-11,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,31.35,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-01-12,2025-01-13,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,22.14,/Users/giocordial/PycharmProjects/credit_card_project/data/January2021.pdf
+2025-10-17,2025-10-18,UNITED WAY OF WINNIPEG WINNIPEG MB,Personal and Household Expenses,20.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-10-28,2025-11-02,SKYPE.COM/GO/BILL SKYPECOM,Professional and Financial Services,10.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-10-31,2025-11-05,GO.SKYPE.COM/BILL LUXEMBOURG,Professional and Financial Services,25.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-11-03,2025-11-05,MEDCOUNCIL/CONSEILMED OTTAWA ON,Health and Education,285.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-11-04,2025-11-08,GO.SKYPE.COM/BILL LUXEMBOURG,Professional and Financial Services,25.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-11-07,2025-11-08,DALHOUSIE SCHOOL LUNC WINNIPEG BC,Health and Education,48.0,/Users/giocordial/PycharmProjects/credit_card_project/data/November2018.pdf
+2025-10-11,2025-10-14,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.26,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-12,2025-10-14,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.89,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-12,2025-10-14,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,5.99,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-13,2025-10-14,DOLLARAMA #1286 WINNIPEG MB,Retail and Grocery,3.93,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-13,2025-10-15,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,17.91,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-13,2025-10-15,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,2.23,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-14,2025-10-15,BK #11895 WINNIPEG MB,Restaurants,8.95,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-14,2025-10-16,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.89,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-14,2025-10-19,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.26,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-15,2025-10-19,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,2.23,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-16,2025-10-19,MARY BROWNS #8002 WINNIPEG MB,Restaurants,11.75,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-16,2025-10-19,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.66,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-16,2025-10-19,DIM SUM KINGDOM WINNIPEG MB,Restaurants,13.38,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-16,2025-10-19,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.26,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-17,2025-10-19,WILD WINGS PEMBINA HWY WINNIPEG MB,Restaurants,20.02,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-17,2025-10-19,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.89,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-17,2025-10-20,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,31.37,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-18,2025-10-19,LITTLE CAESARS PEMBINA SOWINNIPEG MB,Restaurants,12.31,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-18,2025-10-21,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.6,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-19,2025-10-20,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,17.18,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-20,2025-10-21,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,12.01,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-21,2025-10-22,BK #11895 WINNIPEG MB,Restaurants,12.31,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-22,2025-10-23,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,30.44,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-22,2025-10-26,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.6,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-23,2025-10-26,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,5.96,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-23,2025-10-26,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,13.96,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-24,2025-10-26,PIZZA HOTLINE #8 WINNIPEG MB,Restaurants,11.19,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-25,2025-10-26,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,30.43,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-27,2025-10-28,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,30.44,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-28,2025-10-29,BK #11895 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-30,2025-11-02,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,38.7,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-30,2025-11-02,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,13.25,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-30,2025-11-02,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.38,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-31,2025-11-02,DOMINOS PIZZA 10210 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-10-31,2025-11-02,FIVE GUYS BURGERS & FR WINNIPEG MB,Restaurants,16.43,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-01,2025-11-02,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,29.21,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-02,2025-11-03,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,26.5,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-02,2025-11-05,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.38,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-04,2025-11-05,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,25.43,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-04,2025-11-06,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,4.54,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-04,2025-11-09,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,12.86,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-05,2025-11-09,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,40.3,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-07,2025-11-09,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,60.36,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-08,2025-11-10,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,21.27,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-09,2025-11-10,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,27.1,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-10,2025-11-12,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,22.39,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-11-10,2025-11-13,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,4.57,/Users/giocordial/PycharmProjects/credit_card_project/data/November2020.pdf
+2025-12-22,2025-12-24,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,91.26,/Users/giocordial/PycharmProjects/credit_card_project/data/January2019.pdf
+2025-12-22,2025-12-27,SAFEWAY #4847 WINNIPEG MB,Retail and Grocery,32.47,/Users/giocordial/PycharmProjects/credit_card_project/data/January2019.pdf
+2025-12-24,2025-12-27,SILOAM MISSION INC WINNIPEG MB,Professional and Financial Services,30.0,/Users/giocordial/PycharmProjects/credit_card_project/data/January2019.pdf
+2025-12-25,2025-12-27,CANADAHELPSORG DONATIO 416-628-6948 ON,Personal and Household Expenses,30.0,/Users/giocordial/PycharmProjects/credit_card_project/data/January2019.pdf
+2025-11-14,2025-11-16,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,24.1,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-14,2025-11-16,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,26.03,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-14,2025-11-17,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,3.42,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-15,2025-11-17,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,22.39,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-17,2025-11-19,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,41.41,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-20,2025-11-23,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,39.7,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-20,2025-11-23,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,4.54,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-20,2025-11-23,7-ELEVEN 17060 D2811 WINNIPEG MB,Retail and Grocery,1.73,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-20,2025-11-23,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,29.65,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-20,2025-11-23,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,10.53,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-23,2025-11-26,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,41.43,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-27,2025-11-30,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,17.91,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-27,2025-11-30,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,2.84,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-11-29,2025-12-01,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,45.56,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-01,2025-12-04,SHOPPERSDRUGMART0532 WINNIPEG MB,Health and Education,5.71,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-02,2025-12-03,SOUTHLAND RESTAURANT WINNIPEG MB,Restaurants,39.7,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-02,2025-12-03,BK #11895 WINNIPEG MB,Restaurants,14.55,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-05,2025-12-07,PIZZA HOTLINE #8 WINNIPEG MB,Restaurants,21.27,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-07,2025-12-08,REAL CDN. SUPERSTORE # WINNIPEG MB,Retail and Grocery,41.79,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-08,2025-12-10,PIZZA PIZZA # 450 WINNIPEG MB,Restaurants,22.39,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-09,2025-12-10,BK #11895 WINNIPEG MB,Restaurants,12.31,/Users/giocordial/PycharmProjects/credit_card_project/data/December2020.pdf
+2025-12-13,2025-12-13,CASH,ADVANCES,22.99,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-11-23,2025-11-26,DOLLARAMA # 503 WINNIPEG MB,Retail and Grocery,1.13,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-11-23,2025-11-26,SHOPPERSDRUGMART0537 WINNIPEG MB,Health and Education,100.0,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-11-29,2025-11-30,DALHOUSIE SCHOOL LUNC WINNIPEG BC,Health and Education,48.0,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-12-06,2025-12-07,TIM HORTONS #2796 WINNIPEG MB,Restaurants,1.96,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-12-06,2025-12-07,TIM HORTONS #2796 WINNIPEG MB,Restaurants,1.96,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-12-09,2025-12-11,APEGM WINNIPEG MB,Professional and Financial Services,218.0,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-12-10,2025-12-11,ANSWERS WINNIPEG MB,Health and Education,9.65,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
+2025-12-13,2025-12-13,CASH BACK,AWARDED,-102.68,/Users/giocordial/PycharmProjects/credit_card_project/data/December2018.pdf
